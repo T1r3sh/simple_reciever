@@ -49,7 +49,6 @@ getdata_method/
 ## API Endpoints
 
 - `PUT /api/v1/ingest` - Receive and store data (requires authentication)
-- `GET /api/v1/health` - Health check endpoint
 - `GET /docs` - API documentation (Swagger UI)
 
 ## Authentication
